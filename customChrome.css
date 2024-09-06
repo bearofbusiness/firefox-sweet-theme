@@ -1,0 +1,6 @@
+/*@import "theme/system-icons.css";*/
+@import "theme/hide-single-tab.css";
+:root {
+  --inactive-titlebar-opacity: 1;
+  --sweet-inactive-headerbar-border-color: #0C0E14;
+}
