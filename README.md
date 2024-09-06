@@ -1,3 +1,4 @@
+## I made like 2 changes to fix transparency issues I was having when the window was Inactive
 ![Screenshot of the theme](images/preview.png)
 
 ## Description
