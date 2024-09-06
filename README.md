@@ -56,7 +56,7 @@ git clone https://github.com/EliverLara/firefox-sweet-theme && cd firefox-sweet-
 5. Clone this repo to a subdirectory:
 
 	```sh
-	git clone https://github.com/EliverLara/firefox-sweet-theme.git
+	git clone https://github.com/bearofbusiness/firefox-sweet-theme.git
 	```
 
 6. Create single-line user CSS files if non-existent or empty (at least one line is needed for `sed`):
